@@ -23,9 +23,10 @@ yarn-debug.log*
 yarn-error.log*
 
 # Hardhat files
-packages/hardhat/artifacts
-packages/hardhat/cache
-packages/hardhat/node_modules
+artifacts
+cache
+node_modules
 
 # File
 package-lock.json
+yarn.lock
